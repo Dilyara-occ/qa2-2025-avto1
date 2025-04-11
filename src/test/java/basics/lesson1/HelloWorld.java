@@ -81,3 +81,11 @@ public class HelloWorld {
 
     }
 }
+
+    public class HelloWorld {
+        @Test
+        public void tryMe() {
+            System.out.println("Hello World");
+            System.out.println("Another String");
+        }
+    }
